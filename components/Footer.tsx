@@ -20,7 +20,7 @@ export default function Footer() {
           {/* Links */}
           <div className="flex items-center gap-6">
             <Link
-              href="https://github.com/yourusername/ai-tools-directory"
+              href="https://github.com/ad-kumar007/ai-tools-directory"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 text-sm text-muted-foreground transition-colors duration-200 hover:text-primary"
